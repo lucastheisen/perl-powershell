@@ -74,7 +74,7 @@ Pipes the output to `$cmdlet`.
 
 # AUTHOR
 
-Lucas Theisen &lt;lucastheisen@pastdev.com>
+Lucas Theisen <lucastheisen@pastdev.com>
 
 # COPYRIGHT AND LICENSE
 
@@ -87,4 +87,6 @@ the same terms as the Perl 5 programming language system itself.
 
 Please see those modules/websites for more information related to this module.
 
+- [PowerShell::Cmdlet](https://metacpan.org/pod/PowerShell::Cmdlet)
+- [PowerShell::Pipeline](https://metacpan.org/pod/PowerShell::Pipeline)
 - [https://msdn.microsoft.com/en-us/powershell/scripting/powershell-scripting](https://msdn.microsoft.com/en-us/powershell/scripting/powershell-scripting)
